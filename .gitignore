@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/windows,git,intellij,intellij+iml,java
 
+.vscode/
+
 ### Git ###
 *.orig
 
