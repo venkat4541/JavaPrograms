@@ -16,6 +16,5 @@ public class Main {
         String str = "500";
         int num = 300;
         System.out.println(str+num);
-
     }
 }
